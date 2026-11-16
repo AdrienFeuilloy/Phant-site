@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1254 736" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 1254 736" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-245.324666,-8.946247)">
         <g>
             <g transform="matrix(0.972581,0,0,0.932722,-38.087632,-28.113012)">
@@ -26,16 +26,16 @@
                     </g>
                     <rect x="209.239" y="57.805" width="52.024" height="640.116" style="fill:rgb(24,25,23);"/>
                 </g>
-                <g id="CorpsConsole">
-                    <g id="Volume" transform="matrix(1.028192,0,0,1.072131,-51.149493,-147.967297)">
+                <g id="_g1">
+                    <g id="_g2" transform="matrix(1.028192,0,0,1.072131,-51.149493,-147.967297)">
                         <path d="M523.159,184.154L503.359,184.154C502.256,184.154 501.361,183.259 501.361,182.156L501.361,177.07C501.361,175.967 502.256,175.072 503.359,175.072L532.665,175.072C533.768,175.072 534.663,175.967 534.663,177.07L534.663,178.072L572.204,178.072L572.204,177.07C572.204,175.967 573.099,175.072 574.202,175.072L603.508,175.072C604.611,175.072 605.506,175.967 605.506,177.07L605.506,182.156C605.506,183.259 604.611,184.154 603.508,184.154L596.726,184.154L596.726,185.156C596.726,186.259 595.831,187.154 594.728,187.154L525.157,187.154C524.054,187.154 523.159,186.259 523.159,185.156L523.159,184.154Z" style="fill:rgb(41,42,37);"/>
                     </g>
-                    <g id="Corps" transform="matrix(1.028192,0,0,1.072131,-51.149493,-145.823035)">
-                        <g id="coque-principale" serif:id="coque principale" transform="matrix(1,-0,-0,1,333.159305,173.07157)">
+                    <g id="_g3" transform="matrix(1.028192,0,0,1.072131,-51.149493,-145.823035)">
+                        <g id="_g4" transform="matrix(1,-0,-0,1,333.159305,173.07157)">
                             <use xlink:href="#_Image5" x="1.855" y="5.795" width="1250px" height="730px"/>
                         </g>
-                        <g id="Cadre-ecran" serif:id="Cadre ecran">
-                            <g id="Cadre-ecran1" serif:id="Cadre ecran" transform="matrix(1,-0,-0,1,333.159305,173.07157)">
+                        <g id="_g5">
+                            <g id="_g6" transform="matrix(1,-0,-0,1,333.159305,173.07157)">
                                 <use xlink:href="#_Image6" x="36.886" y="32.316" width="1180px" height="681px"/>
                             </g>
                             <g>
@@ -46,7 +46,7 @@
                             </g>
                         </g>
                     </g>
-                    <g id="Ecran" transform="matrix(1.028192,-0,-0,1.072131,291.402362,39.732387)">
+                    <g id="_g7" transform="matrix(1.028192,-0,-0,1.072131,291.402362,39.732387)">
                         <use xlink:href="#_Image7" x="127.834" y="90.06" width="998px" height="566px"/>
                     </g>
                 </g>
