@@ -1,13 +1,23 @@
-.DS_Store
-Thumbs.db
+# Seuls les fichiers du site sont publiés
+/*
+!/index.html
+!/404.html
+!/robots.txt
+!/README.md
+!/.gitignore
+!/.nojekyll
+!/css/
+!/js/
+!/assets/
+
+# Jamais publiés, même dans les dossiers du site
+.*
+!/.gitignore
+!/.nojekyll
+*.md
+!/README.md
 *.psd
 *.afdesign
 *.afphoto
 *.zip
-.env
-
-# Fichiers d'outils locaux : jamais publiés
-CLAUDE.md
-CLAUDE.local.md
-.claude/
-AGENTS.md
+Thumbs.db
