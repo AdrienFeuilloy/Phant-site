@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1265 694" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 1265 694" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-239.883983,-191.654595)">
         <g>
             <g transform="matrix(0.972581,0,0,0.932722,-38.087632,-28.113012)">
-                <g id="Dock">
-                    <g id="Dock1" serif:id="Dock" transform="matrix(1.028192,0,0,1.072131,-52.56032,-44.911852)">
+                <g id="_g1">
+                    <g id="_g2" transform="matrix(1.028192,0,0,1.072131,-52.56032,-44.911852)">
                         <g transform="matrix(0.721316,0,0,0.520988,102.70563,385.210533)">
                             <clipPath id="_clip1">
                                 <rect x="315.294" y="790.675" width="97.843" height="32.83"/>

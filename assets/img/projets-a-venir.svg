@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 964 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<svg width="100%" height="100%" viewBox="0 0 964 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-978.84381,-2858.741539)">
         <g transform="matrix(1,0,0,1,490.163975,338.689643)">
-            <g id="Base-PlaceHolder-Projects" serif:id="Base PlaceHolder Projects" transform="matrix(1,-0,-0,1,488.679835,2520.051896)">
+            <g id="_g1" transform="matrix(1,-0,-0,1,488.679835,2520.051896)">
                 <use xlink:href="#_Image1" x="0" y="0" width="964px" height="196px"/>
             </g>
-            <g id="Base-PlaceHolder-Projects1" serif:id="Base PlaceHolder Projects" transform="matrix(1,0,0,1,-490.163975,-338.689643)">
+            <g id="_g2" transform="matrix(1,0,0,1,-490.163975,-338.689643)">
                 <path d="M1460.684,3032.285C1313.807,3032.285 1095.85,3030.477 1020.054,3027.285C1013.56,3027.012 1007.724,3019.718 1005.906,3013.137C1002.715,3001.586 1000.906,2976.448 1000.906,2957.978C1000.906,2939.114 1002.715,2911.981 1005.906,2899.952C1007.657,2893.351 1013.56,2886.077 1020.054,2885.804C1095.85,2882.612 1313.807,2880.804 1460.684,2880.804C1607.56,2880.804 1825.517,2882.612 1901.313,2885.804C1907.807,2886.077 1913.71,2893.351 1915.461,2899.952C1918.652,2911.981 1920.461,2939.114 1920.461,2957.978C1920.461,2976.448 1918.652,3001.586 1915.461,3013.137C1913.643,3019.718 1907.807,3027.012 1901.313,3027.285C1825.517,3030.477 1607.56,3032.285 1460.684,3032.285Z" style="fill:rgb(222,215,206);"/>
             </g>
         </g>
