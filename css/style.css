@@ -1,5 +1,5 @@
 :root{--bg:#E3CFB4;--beige:#CEB694;--ink:#1B1A18;--red:#CC0C33;--yellow:#D1A802;--teal:#02968A;--deep:#006B6E;
- --title:'Passion One',Impact,'Arial Narrow Bold',sans-serif;--text:'Commissioner',system-ui,-apple-system,'Segoe UI',sans-serif;
+ --title:'Changa','Arial Narrow Bold',Arial,sans-serif;--text:'Commissioner',system-ui,-apple-system,'Segoe UI',sans-serif;
  color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:light}}
 :root[data-theme="dark"]{color-scheme:light}
@@ -42,7 +42,7 @@ footer{padding:10px 28px;text-align:center;font-size:14px}
 .bezel small{display:block;font:600 9px/1 var(--text);letter-spacing:.14em;color:#9b927f;margin-bottom:8px;text-align:center}
 .screen{background:#23211d;border-radius:4px;aspect-ratio:10/9;overflow:hidden;position:relative;box-shadow:inset 0 0 0 2px #0e0d0c}
 .screen::after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.18) 0 1px,transparent 1px 3px)}
-.lcd{height:100%;padding:12px;display:flex;flex-direction:column;gap:8px;font-family:var(--title);color:var(--beige)}
+.lcd{height:100%;padding:12px;display:flex;flex-direction:column;gap:8px;font-family:var(--title);font-weight:700;color:var(--beige)}
 .lcd h2{margin:0;font-size:25px;line-height:1}.lcd h2 span{color:var(--yellow)}
 .lcd .h{margin-top:auto;font:600 10px/1 var(--text);color:#9b927f}
 @keyframes bl{50%{opacity:0}}
