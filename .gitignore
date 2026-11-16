@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.psd
+*.afdesign
+*.afphoto
+*.zip
+.env
+
+# Fichiers d'outils locaux : jamais publiés
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+AGENTS.md
